@@ -14,6 +14,7 @@
 		CE1F4E7127A3C21300EF3302 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE1F4E6F27A3C21300EF3302 /* LaunchScreen.storyboard */; };
 		CE1F4E7927A448DF00EF3302 /* TrackListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E7827A448DF00EF3302 /* TrackListViewController.swift */; };
 		CE1F4E7B27A469E900EF3302 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E7A27A469E900EF3302 /* Track.swift */; };
+		CE1F4E7D27A5524C00EF3302 /* TrackDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE1F4E7C27A5524C00EF3302 /* TrackDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CE1F4E7227A3C21300EF3302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE1F4E7827A448DF00EF3302 /* TrackListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackListViewController.swift; sourceTree = "<group>"; };
 		CE1F4E7A27A469E900EF3302 /* Track.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
+		CE1F4E7C27A5524C00EF3302 /* TrackDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				CE1F4E6D27A3C21300EF3302 /* Assets.xcassets */,
 				CE1F4E6F27A3C21300EF3302 /* LaunchScreen.storyboard */,
 				CE1F4E7227A3C21300EF3302 /* Info.plist */,
+				CE1F4E7C27A5524C00EF3302 /* TrackDetailsViewController.swift */,
 				CE1F4E7827A448DF00EF3302 /* TrackListViewController.swift */,
 				CE1F4E7A27A469E900EF3302 /* Track.swift */,
 			);
@@ -143,6 +146,7 @@
 			files = (
 				CE1F4E6527A3C20F00EF3302 /* AppDelegate.swift in Sources */,
 				CE1F4E6727A3C20F00EF3302 /* SceneDelegate.swift in Sources */,
+				CE1F4E7D27A5524C00EF3302 /* TrackDetailsViewController.swift in Sources */,
 				CE1F4E7927A448DF00EF3302 /* TrackListViewController.swift in Sources */,
 				CE1F4E7B27A469E900EF3302 /* Track.swift in Sources */,
 			);
